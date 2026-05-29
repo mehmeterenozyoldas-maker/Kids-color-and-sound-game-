@@ -1,0 +1,6 @@
+{
+  "name": "Resonant Scales",
+  "description": "An immersive environment exploring how human movement triggers multi-scale wave interference across a collective digital medium.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
